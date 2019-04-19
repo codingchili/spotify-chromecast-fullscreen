@@ -21,7 +21,7 @@ Sample picture from Apr 2019
 
 Sample picture from 2017
 
-![spotify web player chromecast mode](sample.png)
+![spotify web player chromecast mode](screenshot-2017.png)
 
 
 # Contributions
