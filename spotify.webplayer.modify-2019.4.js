@@ -67,7 +67,6 @@ function install() {
             if (image) {
                 console.log(`updating image src to ${currentTrack.album.images[0].url}`);
                 image.src = currentTrack.album.images[0].url;
-                console.log(currentTrack);
             } else {
                 // the album art image has been removed, stop this timer.
                 window.clearInterval(timer);
