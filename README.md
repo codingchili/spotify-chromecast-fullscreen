@@ -9,7 +9,7 @@ Follow the instructions.
 
 1. Start by browsing to [play.spotify.com](http://play.spotify.com) 
 2. Click this link and copy the [script](spotify.webplayer.modify-2019.4.js) in this repository.
-3. Now hit hit F12 in the Spotify webplayer and paste the following script into the console.
+3. Now hit hit F12 in the Spotify webplayer and paste the following script into the console, hit enter.
 4. To enter the fullscreen mode click on the Spotify logo.
 5. To exit fullscreen mode click on the album art image.
 
